@@ -1,3 +1,7 @@
 $blockquote: (
-  "font-style": italic
+    font-style: italic,
+    border-left: 1px solid $gray,
+    color: $gray,
+    padding-left: $pad,
+    margin-bottom: $space,
 );
