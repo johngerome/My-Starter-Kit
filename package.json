@@ -13,7 +13,6 @@
     "npm-check-updates": "^1.2.0"
   },
   "scripts": {
-    "generate": "php core/builder.php -g",
-    "install": "sudo gem install wraith && brew install jpeg && pip install glue"
+    "generate": "php core/builder.php -g"
   }
 }
